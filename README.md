@@ -25,6 +25,6 @@ This Power BI dashboard provides a comprehensive analysis of road accidents. It 
 * Use the slicers and filters to interact with the data and gain insights.
 ### Dashboard Preview
 
-![image](![Screenshot (18)](https://github.com/user-attachments/assets/c4256a57-5590-4278-8d19-9497809f3b1d)
+(![Screenshot (18)](https://github.com/user-attachments/assets/c4256a57-5590-4278-8d19-9497809f3b1d)
 
 
