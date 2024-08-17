@@ -20,7 +20,7 @@ This Power BI dashboard provides a comprehensive analysis of road accidents. It 
 * Total Casualties and Total Accidents by Location
 
 ### Usage Instructions
-* Open the `Market Basket Analysis.pbix` file in Power BI Desktop.
+* Open the `road accident.pbix` file in Power BI Desktop.
 * Review and explore the visualizations.
 * Use the slicers and filters to interact with the data and gain insights.
 ### Dashboard Preview
